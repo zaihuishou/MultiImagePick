@@ -1,4 +1,4 @@
-package com.zaihuishou;
+package com.zaihuishou.core;
 
 import android.util.Log;
 
